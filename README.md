@@ -1,11 +1,12 @@
 
-Bubbles slide around eachother with surface tension effect.
+Sterographic animation based on "control points" with simple linear motion. Circular arcs are drawn procedurally, where each arc lies tangent to a set of three control points.
 
-Each bubble is treated as a single particle and precise edge shapes are handled by a special 1D physics engine.
+Hover or touch to manually animate along 2 dimensions. 
+
 
 ## Demo
 
-https://tessmero.github.io/bubbles.html
+https://tessmero.github.io/donut.html
 
 ## Usage
 

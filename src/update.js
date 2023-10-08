@@ -11,6 +11,7 @@ function update(dt) {
     if( true ){
         if( global.autoMoveCountdown > 0 ){
             global.autoMoveCountdown -= dt
+            
         } else {
             
             // main animation
